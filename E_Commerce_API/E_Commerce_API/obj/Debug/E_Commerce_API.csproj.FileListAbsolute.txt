@@ -1,0 +1,213 @@
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\E_Commerce_API.dll.config
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\E_Commerce_API.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\E_Commerce_API.pdb
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\csc.exe
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\csc.exe.config
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\csc.rsp
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\csi.exe
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\csi.exe.config
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\csi.rsp
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.AppContext.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Collections.Immutable.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Console.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.Compression.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.FileSystem.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Net.Http.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Net.Sockets.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.ValueTuple.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.XPath.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\vbc.exe
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\vbc.exe.config
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\vbc.rsp
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\VBCSCompiler.exe
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\roslyn\VBCSCompiler.exe.config
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\EntityFramework.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\EntityFramework.SqlServer.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\Newtonsoft.Json.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\System.Net.Http.Formatting.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.WebHost.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\EntityFramework.xml
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\EntityFramework.SqlServer.xml
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\Newtonsoft.Json.xml
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\System.Net.Http.Formatting.xml
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.xml
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.WebHost.xml
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.csprojAssemblyReference.cache
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.csproj.CoreCompileInputs.cache
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.csproj.CopyComplete
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.dll
+D:\ITI\15- Web API\Project\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.pdb
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\E_Commerce_API.dll.config
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\E_Commerce_API.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\E_Commerce_API.pdb
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csc.exe
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csc.exe.config
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csc.rsp
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csi.exe
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csi.exe.config
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csi.rsp
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.AppContext.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Collections.Immutable.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Console.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Globalization.Calendars.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.Compression.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.FileSystem.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Net.Http.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Net.Sockets.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Reflection.Metadata.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.ValueTuple.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.XPath.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\vbc.exe
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\vbc.exe.config
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\vbc.rsp
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\VBCSCompiler.exe
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\VBCSCompiler.exe.config
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\EntityFramework.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\EntityFramework.SqlServer.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\Newtonsoft.Json.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\System.Net.Http.Formatting.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.WebHost.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\EntityFramework.xml
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\EntityFramework.SqlServer.xml
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\Newtonsoft.Json.xml
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\System.Net.Http.Formatting.xml
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.xml
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.WebHost.xml
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.csprojAssemblyReference.cache
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.csproj.CoreCompileInputs.cache
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.csproj.CopyComplete
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.dll
+E:\ITI\final .net project\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.pdb
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\E_Commerce_API.dll.config
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\E_Commerce_API.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\E_Commerce_API.pdb
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csc.exe
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csc.exe.config
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csc.rsp
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csi.exe
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csi.exe.config
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\csi.rsp
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.AppContext.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Collections.Immutable.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Console.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Globalization.Calendars.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.Compression.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.FileSystem.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Net.Http.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Net.Sockets.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Reflection.Metadata.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.ValueTuple.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.XPath.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\vbc.exe
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\vbc.exe.config
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\vbc.rsp
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\VBCSCompiler.exe
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\roslyn\VBCSCompiler.exe.config
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\EntityFramework.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\EntityFramework.SqlServer.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\Newtonsoft.Json.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\System.Net.Http.Formatting.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.WebHost.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\EntityFramework.xml
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\EntityFramework.SqlServer.xml
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\Newtonsoft.Json.xml
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\System.Net.Http.Formatting.xml
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.xml
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\System.Web.Http.WebHost.xml
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.csprojAssemblyReference.cache
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.csproj.CoreCompileInputs.cache
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.csproj.CopyComplete
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.dll
+E:\ITI\ITI Last version\API\last version\E_Commerce_API\E_Commerce_API\obj\Debug\E_Commerce_API.pdb
